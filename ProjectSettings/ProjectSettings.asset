@@ -578,11 +578,13 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    Collab: 1
+    UNet: 1
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: 5f155aaa-8b5c-4f67-8061-d0d96d7930bf
+  projectName: waterSub
+  organizationId: experian-elitiawan
   cloudEnabled: 0
   enableNewInputSystem: 0
